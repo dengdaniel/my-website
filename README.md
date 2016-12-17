@@ -2,4 +2,4 @@
 
 hfjkasfjadskjfdsakl;jfdslkajlk
 
-Edit on "example" branch.
+Updated on GitHub (update-readme branch).
