@@ -1,3 +1,3 @@
 # my-website
 
-Updated on GitHub (update-readme branch).
+Update made on master on GitHub before rebase.
