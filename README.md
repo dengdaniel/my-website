@@ -2,6 +2,5 @@
 
 Update made on master on GitHub before rebase.
 
-## Repository Purpose
-Update made on develop branch on GitHub.
-Update made on local README.md file on local develop branch.
+## Purpose
+The purpose of this file is to provide examples on how to use Git and GitHub together.
